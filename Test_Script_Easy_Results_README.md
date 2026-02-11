@@ -68,6 +68,8 @@ Total Known Vulnerabilities Inserted: **9**
 
 Semgrep detected the following:
 
+![Test Script Screenshot](images/test_script_easy.png)
+
 | Finding                              | Detected? |
 | ------------------------------------ | --------- |
 | Flask debug=True                     | ✅         |
@@ -434,10 +436,3 @@ This evaluation confirms:
 * With context-awareness enhancements, the system can reach enterprise-grade precision.
 
 ---
-
-If you'd like, I can now help you:
-
-* Convert this into a formal PDF report
-* Add charts/metrics visualization
-* Create an automated scoring script
-* Turn this into a whitepaper-style document
